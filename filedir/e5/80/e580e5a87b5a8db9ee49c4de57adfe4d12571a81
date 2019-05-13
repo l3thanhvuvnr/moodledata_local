@@ -1,0 +1,497 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Trang chủ</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <link href="lib\bootstrap-4.3.1\css\bootstrap.min.css" rel="stylesheet" />
+    <link href="css\font-awesome-4.7.0\css\font-awesome.min.css" rel="stylesheet" />
+    <link href="css\trangChuTinTuc.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container-new">
+        <div class="new-head">
+            <div class="row">
+                <div class="col-6 col-sm-6 col-md-6 col-lg-8 btn-new">
+                    <button type="button" class="btn btn-success">Tin tức nổi bật</button>
+                </div>
+                <div class="col-6 col-sm-6 col-md-6 col-lg-4  btn-search">
+                    <form class="form-inline">
+                        <div class="form-control-size">
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Search">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="	fa fa-search"></i>
+                                </button>
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="row new-hot-body">
+            <div class="row new-hot-body">
+                <div class="col-sm-7 col-md-7 new-hot-box">
+                    <div class="carousel-inner">
+                        <div class="carousel-caption">
+                            <label class="new-hot-title">[Chia sẻ] Những công dụng lợi ích khác từ nước súc miệng</label>
+                            <hr class="new-hot-hr" />
+                            <small class="new-hot-time">Thứ 3, ngày 26 tháng 3 năm 2019 14:00 PM </small>
+                            <label class="new-hot-comment-info">
+                                <i class="fa fa-eye" aria-hidden="true"> 1009 </i>
+                                <i class="fa fa-comment-o" aria-hidden="true"> 32 </i>
+                                <i class="fa fa-share" aria-hidden="true"> 26</i>
+                            </label>
+                        </div>
+                        <div class="carousel-item active">
+                            <img class="new-image1" src="images\trang-chu-tin-tuc\1.jpg">
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-sm-5 col-md-5">
+                    <div class="row">
+                        <div class="col-sm-12 col-md-12 new-hot-box box-2">
+                            <div class="carousel-inner">
+                                <div class="carousel-caption">
+                                    <label class="new-hot-title"> Những công dụng lợi ích khác từ nước súc miệng</label>
+                                    <hr class="new-hot-hr" />
+                                    <small class="new-hot-time">Thứ 3, ngày 26 tháng 3 năm 2019 14:00 PM </small>
+                                    <label class="new-hot-comment-info">
+                                        <i class="fa fa-eye" aria-hidden="true"> 1009 </i>
+                                        <i class="fa fa-comment-o" aria-hidden="true"> 32 </i>
+                                        <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                    </label>
+                                </div>
+                                <div class="carousel-item active">
+                                    <img class="new-image" src="images\trang-chu-tin-tuc\2.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 new-hot-box">
+                            <div class="carousel-inner">
+                                <div class="carousel-caption">
+                                    <label class="new-hot-title">[Chia sẻ] Những</label>
+                                    <hr class="new-hot-hr" />
+                                    <small class="new-hot-time">Thứ 3, ngày 26 tháng 3 năm 2019 </small>
+                                    <label class="new-hot-comment-info">
+                                        <i class="fa fa-eye" aria-hidden="true"> 1009 </i>
+                                        <i class="fa fa-comment-o" aria-hidden="true"> 32 </i>
+                                        <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                    </label>
+                                </div>
+                                <div class="carousel-item active">
+                                    <img class="new-image" src="images\trang-chu-tin-tuc\3.jpg">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 new-hot-box">
+                            <div class="carousel-inner">
+                                <div class="carousel-caption">
+                                    <label class="new-hot-title">[Chia sẻ] Những </label>
+                                    <hr class="new-hot-hr" />
+                                    <small class="new-hot-time">Thứ 3, ngày 26 tháng 3 năm 2019 </small>
+                                    <label class="new-hot-comment-info">
+                                        <i class="fa fa-eye" aria-hidden="true"> 1009 </i>
+                                        <i class="fa fa-comment-o" aria-hidden="true"> 32 </i>
+                                        <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                    </label>
+                                </div>
+                                <div class="carousel-item active">
+                                    <img class="new-image" src="images\trang-chu-tin-tuc\4.jpg">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-new-bottom">
+            <div class="btn-new-latest">
+                <button type="button" class="btn btn-danger">Tin mới nhất</button>
+            </div>
+            <div class="row new-latest-body">
+                <div class="col-lg-3 ">
+                    <div class="new-latest-box">
+                        <img class="new-latest-image" src="images\tin-moi-nhat\1.jpg">
+                        <label class="new-latest-title">Galaxy Note 10 có thể có màn hình lên tới 6"6, tỉ lệ dài hơn nữa với kích thước tối đa</label>
+                        <br />
+                        <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                        <br />
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <p class="new-latest-content">
+                                    Còn quá sớm để nói về Galaxy Note 10 ở thời điểm hiện tại nhưng vài nguồn tin khẳng định rằng,
+                                    Samsung sẽ trang bị cho nó panel màn hình hiển thị với kích thước lên tới 6"6,
+                                    khiến cuộc đua smartphone màn hình to ngày càng sôi nổi.
+                                </p>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="new-latest-comment-info">
+                                    <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                    <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                    <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+
+                </div>
+                <div class="col-lg-3">
+                    <div class="new-latest-box">
+
+                        <img class="new-latest-image" src="images\tin-moi-nhat\2.jpg">
+                        <label class="new-latest-title">Galaxy Note 10 sẽ được ra mắt với 2 tùy chọn</label>
+                        <br />
+                        <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+
+
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <p class="new-latest-content">
+                                    Galaxy S10 ra mắt với 4 phiên bản, sở hữu các kích cỡ màn hình khác nhau và điều đó cho thấy không có gì
+                                    bất ngờ khi Samsung sẽ giới thiệu Galaxy Note mới và cũng bổ sung ít nhất 2 tùy chọn kích thước cho khách hàng.
+                                </p>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="new-latest-comment-info">
+                                    <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                    <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                    <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="new-latest-box">
+                        <img class="new-latest-image" src="images\tin-moi-nhat\3.jpg">
+                        <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                        <br />
+                        <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="new-latest-comment-info">
+                                    <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                    <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                    <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-lg-3">
+                    <div class="new-latest-box">
+                        <img class="new-latest-image" src="images\tin-moi-nhat\3.jpg">
+                        <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                        <br />
+                        <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                            </div>
+                            <div class="col-lg-12">
+                                <div class="new-latest-comment-info">
+                                    <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                    <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                    <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="btn-new-course">
+                <button type="button" class="btn btn-primary">Tin tức khóa học</button>
+            </div>
+            <div class="row">
+                <div class="col-lg-9">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="new-latest-box">
+                                <img class="new-latest-image" src="images\tin-moi-nhat\2.jpg">
+                                <label class="new-latest-title">Galaxy Note 10 sẽ được ra mắt với 2 tùy chọn</label>
+                                <br />
+                                <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <p class="new-latest-content">
+                                            Galaxy S10 ra mắt với 4 phiên bản, sở hữu các kích cỡ màn hình khác nhau và điều đó cho thấy không có gì
+                                            bất ngờ khi Samsung sẽ giới thiệu Galaxy Note mới và cũng bổ sung ít nhất 2 tùy chọn kích thước cho khách hàng.
+                                        </p>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="new-latest-comment-info">
+                                            <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                            <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                            <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="new-latest-box">
+                                <img class="new-latest-image" src="images\tin-moi-nhat\1.jpg">
+                                <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                                <br />
+                                <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="new-latest-comment-info">
+                                            <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                            <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                            <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="new-latest-box">
+                                <img class="new-latest-image" src="images\tin-moi-nhat\2.jpg">
+                                <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                                <br />
+                                <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="new-latest-comment-info">
+                                            <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                            <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                            <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-12 new-control-size"></div>
+                        <div class="col-lg-4">
+                            <div class="new-latest-box">
+
+                                <img class="new-latest-image" src="images\tin-moi-nhat\1.jpg">
+                                <label class="new-latest-title">Galaxy Note 10 sẽ được ra mắt với 2 tùy chọn</label>
+                                <br />
+                                <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+
+
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <p class="new-latest-content">
+                                            Galaxy S10 ra mắt với 4 phiên bản, sở hữu các kích cỡ màn hình khác nhau và điều đó cho thấy không có gì
+                                            bất ngờ khi Samsung sẽ giới thiệu Galaxy Note mới và cũng bổ sung ít nhất 2 tùy chọn kích thước cho khách hàng.
+                                        </p>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="new-latest-comment-info">
+                                            <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                            <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                            <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4">
+                            <div class="new-latest-box">
+                                <img class="new-latest-image" src="images\tin-moi-nhat\2.jpg">
+                                <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                                <br />
+                                <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="new-latest-comment-info">
+                                            <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                            <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                            <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+                        <div class="col-lg-4">
+                            <div class="new-latest-box">
+                                <img class="new-latest-image" src="images\tin-moi-nhat\3.jpg">
+                                <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                                <br />
+                                <small class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</small>
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                                    </div>
+                                    <div class="col-lg-12">
+                                        <div class="new-latest-comment-info">
+                                            <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                            <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                            <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+
+                </div>
+                <div class="col-lg-3">
+                    <div class="new-list-course">
+                        <i class="fa fa-bars" aria-hidden="true"> Danh sách khóa học</i>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Hướng dẫn sử dụng hệ thống
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Hội nhập VnResource
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Đào tạo sản phẩm
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Đào tạo chuyên môn
+                            </label>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+            <label class="view-more">Xem thêm</label>
+            <div class="btn-new-departmental">
+                <button type="button" class="btn btn-warning">Tin tức phòng ban</button>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-9">
+                    <div class="row">
+                        <div class="col-lg-6">
+                            <div class="resize">
+                                <img class="new-latest-image" src="images\tin-moi-nhat\3.jpg">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                            <label class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</label>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="new-latest-comment-info">
+                                        <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                        <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                        <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-lg-12 new-control-size"></div>
+                        <div class="col-lg-6">
+                            <div class="resize">
+                                <img class="new-latest-image" src="images\tin-moi-nhat\3.jpg">
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <label class="new-latest-title">5 thủ thuật đơn giản bạn nên biết khi dùng Netflix</label>
+                            <label class="new-latest-time">Thứ 3 ngày 26 tháng 12 năm 2019 8:00 AM</label>
+                            <div class="row">
+                                <div class="col-lg-12">
+                                    <p class="new-latest-content">Đây là chức năng rất yêu của Netflix, app cho phép bạn download phim lưu trong máy để vẫn xem được khi không có Internet. </p>
+                                </div>
+                                <div class="col-lg-12">
+                                    <div class="new-latest-comment-info">
+                                        <i class="fa fa-eye" aria-hidden="true"> 1009 &nbsp&nbsp</i>
+                                        <i class="fa fa-comment-o" aria-hidden="true"> 32 &nbsp&nbsp</i>
+                                        <i class="fa fa-share" aria-hidden="true"> 26</i>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-lg-3">
+                    <div class="new-list-course">
+                        <i class="fa fa-bars" aria-hidden="true"> Danh sách khóa học</i>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Hướng dẫn sử dụng hệ thống
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Hội nhập VnResource
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Đào tạo sản phẩm
+                            </label>
+                        </div>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <label class="form-check-label" for="gridCheck">
+                                Đào tạo chuyên môn
+                            </label>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+            <label class="view-more">Xem thêm</label>
+        </div>
+       
+    </div>
+
+
+
+    <script src="lib\jquery-3.3.1.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="lib\bootstrap-4.3.1\js\bootstrap.min.js"></script>
+    <script src="js\diendan1.js"></script>
+    <script src="js\trangChuTinTuc.js"></script>
+</body>
+
+</html> 

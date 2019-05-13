@@ -1,0 +1,25 @@
+a:37:{s:13:"anonymousmess";s:35:"Your answer is recorded anonymously";s:18:"attendancequestion";s:19:"Are you here today ";s:19:"attendancequestion2";s:117:" If so, please type the posted attendance code
+    in the text box and submit it so that you can be counted present. ";s:16:"basicideasofipal";s:59:"The basic ideas of selecting questions for in-class polling";s:11:"editingipal";s:33:"Adding (selecting) ipal questions";s:14:"editingipal_ex";s:18:"Editing ipal: {$a}";s:16:"editingipal_help";s:306:"When selecting questions for ipal, the main concepts are:
+
+* Select questions you might want to use from the questions bank, from ComPADRE, or create new questions.
+* The order of questions is not important since you can send them in any order.
+* When polling you can send the same question more than once.";s:19:"eventeditpageviewed";s:21:"Ipal edit page viewed";s:4:"ipal";s:4:"ipal";s:12:"ipalfieldset";s:23:"Custom example fieldset";s:10:"ipalmobile";s:29:"Enable clickers (Mobile Apps)";s:16:"ipalmobile_error";s:41:"You must choose between No and Mobile App";s:15:"ipalmobile_help";s:144:"Choose Mobile App to allow students to respond using a Mobile App. This displays the IPAL access code for the teacher on the IPAL polling page. ";s:8:"ipalname";s:9:"IPAL Name";s:13:"ipalname_help";s:105:"This is the content of the help tooltip associated with the ipalname field. Markdown syntax is supported.";s:8:"ipaltype";s:9:"IPAL Type";s:14:"ipaltype_error";s:51:"You must choose between anonymous and non-anonymous";s:13:"ipaltype_help";s:138:"Choose to record student ID in spreadsheet with answers (non-anonymous) or not. Ipal type cannot be modified after an answer is recorded. ";s:16:"ipal:addinstance";s:14:"Add a new ipal";s:11:"ipal:manage";s:12:"Manage ipals";s:12:"ipal:preview";s:13:"Preview ipals";s:12:"ipalsettings";s:13:"ipal settings";s:9:"ipal:view";s:21:"View ipal information";s:16:"ipal:viewreports";s:17:"View ipal reports";s:10:"modulename";s:4:"ipal";s:16:"modulenameplural";s:5:"ipals";s:15:"modulename_help";s:1066:"The ipal (In-class Polling for All Learners) activity module enables a teacher to design and set polling sessions consisting of multiple choice, true-false, and essay question types. IPAL questions may be used in a quiz and vice versa. Ready to use questions may also be obtained from the ComPADRE database.
+
+The dynamic graphs displayed below the questions can be toggled from spreadsheet view (including student names) to an anonymous display of the answers for the active question -- a histogram for multiple choice questions and a one-line display for essay questions. While polling is on, a question may be answered multiple times until a second question is sent or polling is turned off.
+
+A question may be sent more than once. The spreadsheet view displays the most recent answer submitted at any time.
+
+Polling may be used
+* To increase student involvement and participation
+* To gauge student understanding and guide the pace of the class.
+* To promote greater verbal classroom discussion.
+
+<a href="https://www.compadre.org/iPAL/webdocs/Guide.cfm">more</a>";s:16:"nonanonymousmess";s:0:"";s:20:"pluginadministration";s:19:"ipal administration";s:10:"pluginname";s:4:"ipal";s:12:"introduction";s:11:"Description";s:14:"ipal_analytics";s:17:"improve analytics";s:19:"ipal_analytics_help";s:474:"If this is selected the student polling data, identified only by the Moodle student userID, will be sent to
+     the ComPADRE site so that an analysis of the data can be done.
+     Only authorized people at your institution can access the data and identify the user names or actual names of any student.
+     and these authorized people can only view the results of the analysis for their own school.
+     <br />If this is not selected, no data is sent to the ComPADRE site.";s:20:"ipal_enable_compadre";s:43:"Enable retrieval of questions from ComPADRE";s:25:"ipal_enable_compadre_help";s:434:"If this is selected, the teacher can choose to import ready-to-use peer-reviewed questions.
+	 The initial set of questions includes hundreds of introductory physics questions from the ConcepTest questions, authored
+	 by Physics Professor Eric Mazur and his group from Harvard University. These questions are housed at <a href="http://www.compadre.org/" target="_blank">ComPADRE</a>, a National
+	 Physics and Astronomy Digital Library.";s:23:"ipal_autocreate_generic";s:29:"Auto-create generic questions";s:28:"ipal_autocreate_generic_help";s:169:"If this is selected, generic multichoice and essay questions will be automatically created when the teacher first chooses to select
+	 the questions for an IPAL instance.";}
